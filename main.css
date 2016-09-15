@@ -1,0 +1,43 @@
+body { font-family: sans-serif;  }
+h1,h2,h3{
+    font-size: 150%
+}
+    
+span.inlarge{    
+    font-size: 230%
+    
+}
+
+.box1{
+    text-indent: 25px;
+}
+
+#subbox1{
+    text-shadow: 2px 2px black;
+    color: orange;
+    font-style: italic;
+    
+}
+img {
+    float: left;
+
+}
+
+a:link{
+    color:orange;
+}
+a:hover{
+    color: green;
+}
+li{
+    margin: 10px 0;
+}
+
+li{
+    font-weight: bold;
+}
+
+#lastbox{
+    font-size: 75%;
+    text-align: center;
+}
